@@ -22,6 +22,11 @@ TO BE UPDATED
 
 [Check here for the latest announcements](./Announcements.MD)
 
+## Query Resolution
+
+- Use this [Google Form](https://forms.gle/rMA3yJPXe7bnbDLF8)
+- Alternatively book a slot during office hours (mentioned above)
+
 ## 🪜 Pre-requisites:
 
 - 1 year of Programming Experience (Python preferred)
