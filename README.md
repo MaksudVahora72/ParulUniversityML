@@ -18,7 +18,7 @@
 
 | Week | Topics | Materials | Quiz / Assignment(s) |
 |------| -------| ----------|-----------------------|
-|Week 0| Python Fundamentals, Numpy, Pandas| [Numpy Foundations](https://colab.research.google.com/drive/1gf8LcUva-HQIgGGul7zsz4le3OgnM9SA?usp=sharing) | |
+|Week 0| Python Fundamentals, Numpy, Pandas| [Numpy Foundations](https://colab.research.google.com/drive/1gf8LcUva-HQIgGGul7zsz4le3OgnM9SA?usp=sharing) | [HackerRank Numpy Challenges](https://www.hackerrank.com/domains/python/numpy/page/1) |
            
 
 ## 📢 Course Announcements 
