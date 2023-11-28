@@ -16,7 +16,10 @@
 
 ## 📚 Study Material
 
-TO BE UPDATED
+| Week | Topics | Materials | Quiz / Assignment(s) |
+|------| -------| ----------|-----------------------|
+|Week 0| Python Fundamentals, Numpy, Pandas| [Numpy Foundations](https://colab.research.google.com/drive/1gf8LcUva-HQIgGGul7zsz4le3OgnM9SA?usp=sharing) | |
+           
 
 ## 📢 Course Announcements 
 
